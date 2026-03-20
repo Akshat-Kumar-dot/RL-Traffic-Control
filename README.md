@@ -18,7 +18,7 @@ Discrete actions (4 total):
 - `0` → Stay on current green phase  
 - `1` → Switch to next green phase  
 - `2` → Switch to next-to-next green phase  
-- `3` → Continue cyclic phase transition  
+- `3` → Switch to next-to-next-to-next green phase    
 
 ---
 
